@@ -12,3 +12,6 @@ This project is part of my Cloud / DevOps learning path.
 
 ## 🎯 Goal
 Learning and practicing cloud infrastructure automation.
+
+## 📁 Files
+- main.tf: Creates an AWS VPC using Terraform
